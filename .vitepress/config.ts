@@ -74,7 +74,6 @@ export default defineConfig({
     },
   },
 
-  mpa: true,
   srcDir: './docs',
   vite: {
     publicDir: resolve(__dirname, '../public'),
