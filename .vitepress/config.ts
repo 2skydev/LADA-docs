@@ -14,7 +14,8 @@ export default defineConfig({
   locales: {
     root: {
       label: '한국어',
-      lang: 'ko'
+      lang: 'ko',
+      link: '/ko/'
     },
     en: {
       label: 'English',
