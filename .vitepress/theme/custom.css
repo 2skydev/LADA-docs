@@ -1,0 +1,21 @@
+:root {
+  --vp-c-brand-1: #bcb4f6;
+  --vp-c-brand-2: #857de8;
+  --vp-c-brand-3: #5753e0;
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #06ca91, #7069e4);
+
+  --vp-home-hero-image-background-image: linear-gradient(156deg, #378adf60 30%, #bb5ff560);
+  --vp-home-hero-image-filter: blur(66px);
+}
+
+.VPHomeHero .main .text {
+  font-size: 26px;
+  line-height: 1.5;
+}
+
+.VPHomeHero .main .tagline {
+  font-size: 20px;
+  line-height: 1.5;
+  word-break: keep-all;
+}
