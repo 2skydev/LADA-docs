@@ -1,4 +1,4 @@
-# Installation
+# 설치하기
 
 LADA는 현재 Windows에서만 지원합니다.
 

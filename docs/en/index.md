@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /what-is-lada
+      link: /en/what-is-lada
     - theme: alt
       text: GitHub
       link: https://github.com/2skydev/LADA

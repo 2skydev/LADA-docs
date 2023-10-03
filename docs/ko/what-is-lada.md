@@ -1,4 +1,4 @@
-# What is LADA
+# LADA 소개
 
 LADA는 **L**eague of Legends **A**ssistant **D**esktop **A**pp의 약자로, 통계, 룬, 아이템 자동 설정, 매칭 자동 수락 등 여러 기능이 있는 데스크탑 앱 입니다.
 

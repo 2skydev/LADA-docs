@@ -1,3 +1,5 @@
+# What is LADA
+
 LADA stands for **L**eague of Legends **A**ssistant **D**esktop **A**pp, a desktop application with various features including statistics, rune and item auto-setup, automatic match acceptance, and more.
 
 ::: warning 🚧 Development Stage

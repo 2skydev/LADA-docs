@@ -19,7 +19,20 @@ export default defineConfig({
     },
     en: {
       label: 'English',
-      lang: 'en'
+      lang: 'en',
+      themeConfig: {
+        sidebar: [
+          {
+            text: 'Getting Started',
+            collapsed: false,
+            items: [
+              { text: 'What is LADA', link: '/en/what-is-lada' },
+              { text: 'Installation', link: '/en/installation' },
+              { text: 'FAQs', link: '/en/faqs' },
+            ],
+          },
+        ]
+      }
     }
   },
 
@@ -51,12 +64,12 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Getting Started',
+        text: '시작하기',
         collapsed: false,
         items: [
-          { text: 'What is LADA', link: '/what-is-lada' },
-          { text: 'Installation', link: '/installation' },
-          { text: 'FAQs', link: '/faqs' },
+          { text: 'LADA 소개', link: '/ko/what-is-lada' },
+          { text: '설치하기', link: '/ko/installation' },
+          { text: 'FAQs', link: '/ko/faqs' },
         ],
       },
       // {
